@@ -15,8 +15,14 @@ body{
 }
 
 #right-column img{
-    width:230px;
+    width: 230px;
     margin: 140px;
     margin-top: 100px;
 }
 
+img#logo {
+    position: fixed;
+    width: 120px;
+    bottom: 5px;
+    right: 3px;
+}
